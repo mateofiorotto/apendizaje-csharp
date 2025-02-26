@@ -1,4 +1,4 @@
-# Learning C# / Aprendiendo C#
+# I PAUSED THIS COURSE / PAUSE ESTE CURSO
 ### Link: [Check the book / Ver el libro](https://www.amazon.com/dp/6072952038)
 ### [Notion Summary / Resumen Notion](https://persistent-visor-d69.notion.site/C-Aprendizaje-desde-cero-1727e0fba856809ea253e5eaad1cd721)
 * All the exercises start with E / Todos los ejercicios empiezan con una E
